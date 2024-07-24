@@ -1,0 +1,10 @@
+Login Server :
+
+- Dosen 
+  Host  : 192.168.102.10
+  user  : yudo
+  psswd : devweb
+
+- Login QueryAdmin 
+  user  : yudo
+  psswd : yudoykpn22
