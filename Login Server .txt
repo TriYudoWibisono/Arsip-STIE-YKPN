@@ -8,3 +8,7 @@ Login Server :
 - Login QueryAdmin 
   user  : yudo
   psswd : yudoykpn22
+
+- Login siskawebv2, YKPN & siska
+  user yudo
+  Pass SemangatMas
